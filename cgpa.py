@@ -37,4 +37,5 @@ elif avg>=60:
     
     
 else :
+
     print("Your input number is wrong. Please input another number.")
